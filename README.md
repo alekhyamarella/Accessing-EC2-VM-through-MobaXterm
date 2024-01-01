@@ -6,7 +6,7 @@ Ls -l | grep filename.pem
 ![image](https://github.com/alekhyamarella194/Accessing-EC2-VM-through-MobaXterm/assets/148741290/348b6655-cc13-494a-a558-94dd9a42352b)
 
 To connect with the EC2 instance command
-Ssh -I “filename.pem” ubuntu@public ip address
+Ssh -i “filename.pem” ubuntu@public ip address
 ![image](https://github.com/alekhyamarella194/Accessing-EC2-VM-through-MobaXterm/assets/148741290/7411e6b7-7950-4d6c-9820-777d38a58f6e)
 
 Azure Virtual Machine
